@@ -1,8 +1,4 @@
 ## Hi there 👋
-pip install -r requirements.txt
-uvicorn main:app --reload
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={kd2713st}&theme=warm)
-<img src="http://mazandi.herokuapp.com/api?handle={kd2713st}&theme=warm"/>
 
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=w&animation=fadeIn&fontColor=000000&fontSize=90" />
