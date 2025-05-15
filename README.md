@@ -32,7 +32,7 @@
           /> </div> 
     </div>
 
-### Statistics
+ <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> statistics </h2> <br> 
 <div align= "center">
   <img alt = "stats" align = "left" src="" width = "49%" height="130%" />
   <img alt="algorithms" src = "" width="42%" height="100%"/>
