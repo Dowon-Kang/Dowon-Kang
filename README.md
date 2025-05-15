@@ -31,4 +31,9 @@
         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dowon-Kang&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> </div> 
     </div>
-    
+
+### Statistics
+<div>
+  <img alt = "stats" align = "left" src="https://github-readme-stats.vercel.app/api?username=kd2713st&show_icons=true&theme=vue" width = "49%" height="130%" />
+  <img alt="algorithms" src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=jjw5741" width="42%" height="100%"/>
+</div>
