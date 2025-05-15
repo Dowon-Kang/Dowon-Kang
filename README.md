@@ -33,7 +33,7 @@
     </div>
 
 ### Statistics
-<div>
+<div align= "center">
   <img alt = "stats" align = "left" src="" width = "49%" height="130%" />
   <img alt="algorithms" src = "" width="42%" height="100%"/>
 </div>
