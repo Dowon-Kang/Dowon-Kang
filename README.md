@@ -1,40 +1,237 @@
-## Hi there 👋
+<div align="center">
 
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=w&animation=fadeIn&fontColor=000000&fontSize=90" />
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi~ </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Hi~ </div> 
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-          </div>
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=mailto:https://mail.google.com/mail/u/0/> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:https://mail.google.com/mail/u/0/"> </a>
-         <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link="> </a>
-         <a href=> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link="> </a>
-          </div>  <br> 
-    <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDowon-Kang%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-       </div> 
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Dowon-Kang&custom_title=Dowon-Kang's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
-        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dowon-Kang&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> </div> 
-    </div>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=12&height=200&section=header&text=Dowon%20Kang%20🚀&fontSize=55&fontColor=FFFFFF"/>
 
- 
-<div align= "center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> statistics </h2> <br> 
-  <img alt = "stats" align = "left" src="" width = "49%" height="130%" />
-  <img alt="algorithms" src = "" width="42%" height="100%"/>
+</div>
+
+## 👨‍💻 About Me
+
+안녕하세요. **강도원**입니다.
+
+AI 기능을 단순히 사용하는 것을 넘어
+**AI Model → Backend → Database → Cloud → Service**로 이어지는 전체 시스템 구조에 관심이 있습니다.
+
+현재는 AI 서비스 개발과 Backend 경험을 기반으로
+**AI Solution Architect / AI Software Architecture** 분야를 공부하고 있습니다.
+
+<p>
+<a href="YOUR_NOTION_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/>
+</a>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🎓 Education
+
+* **한신대학교 AISW학부** — AI·Software [재학 중]
+
+---
+
+## 🧑‍💻 Organizations
+
+* **AISC Lab** — Lab Leader [2026 ~ ]
+* **AISC Programming Study** — C Programming Study 운영
+* **AISC Mentoring** — Python Mentoring
+* **C++ Algorithm Study** — Algorithm & Problem Solving
+
+---
+
+## 🚀 Projects & Experience
+
+### AI Communication Service — ABC Camp
+
+**Backend Developer**
+
+* Node.js / Express 기반 REST API 구현
+* Supabase Authentication 및 PostgreSQL 연동
+* Gemini API 기반 AI 기능 구현
+* Frontend ↔ Backend API 연동
+* AI 응답 평가 및 성능 개선
+* Backend 및 데이터 흐름 설계
+
+`Node.js` `Express` `TypeScript` `Supabase` `PostgreSQL` `Gemini API`
+
+---
+
+### Inclusive AI Ideathon 🇰🇷 × 🇯🇵
+
+고령자의 디지털 접근성 문제 해결을 위한 AI 서비스 기획
+
+* 고령자 사용자 문제 정의
+* 음성 기반 주문 UX 기획
+* OCR / 이미지 인식 활용 방안 설계
+* AI 기능 및 서비스 구조 설계
+* 한국·일본 학생들과 협업 및 발표
+
+`Inclusive AI` `OCR` `VLM` `Service Design`
+
+---
+
+### AI Model Experiment
+
+학교 **NVIDIA A100 GPU Server**를 활용한 AI 모델 실행 및 테스트
+
+* Linux 기반 GPU Server 환경 활용
+* Remote SSH 환경에서 AI 모델 실행
+* 모델 결과 및 성능 테스트
+* GPU 기반 AI 개발 환경 경험
+
+`Python` `Linux` `NVIDIA A100` `SSH`
+
+---
+
+## 🏆 Awards & Activities
+
+* **ABC Camp AI Service Project** — AI 기반 서비스 개발
+* **Digital Competition** — NVIDIA A100 GPU 기반 AI Model Experiment
+* **Inclusive AI Ideathon** — Korea × Japan AI Service Ideation
+
+<!-- 실제 수상 내역이 있다면 아래처럼 변경 -->
+
+<!--
+- **대회명** [🔗](Repository URL) — **최우수상** · 주최기관 [2026/00]
+-->
+
+---
+
+## 🪪 Certificates
+
+<!-- 취득한 자격증만 활성화 -->
+
+* Linux Master 2 — Preparing
+* Information Processing Engineer — Preparing
+* SQLD — Preparing
+
+> 취득 전 자격증을 README에 넣기 싫다면 이 섹션은 삭제하는 것을 추천합니다.
+
+---
+
+## 💫 Tech Stack
+
+### AI / Data
+
+<p>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### Languages
+
+<p>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### Dev Environment
+
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+### AI Architecture
+
+`VLM` `AI Agent` `Model Evaluation` `RAG`
+
+### Software Architecture
+
+`UML` `System Design` `Design Pattern` `API Design`
+
+### Cloud / DevOps
+
+`AWS` `Docker` `CI/CD` `Monitoring`
+
+---
+
+## 🎯 Career Focus
+
+```text
+AI Solution Architecture
+
+AI Model / LLM / VLM
+        ↓
+Inference / AI API
+        ↓
+Backend Service
+        ↓
+Database
+        ↓
+Cloud Infrastructure
+        ↓
+Monitoring & Scalability
+        ↓
+AI Service
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dowon-Kang&show_icons=true&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dowon-Kang&layout=compact&hide_border=true"/>
+
+</div>
+
+---
+
+## 🧩 Algorithm
+
+<div align="center">
+
+<!-- HANDLE을 본인 백준 ID로 변경 -->
+
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=HANDLE"/>
+
+</div>
+
+---
+
+## 📌 Featured Repositories
+
+| Project                      | Description                    | Tech                        |
+| ---------------------------- | ------------------------------ | --------------------------- |
+| **AI Communication Service** | AI 기반 커뮤니케이션 서비스               | Node.js · Supabase · Gemini |
+| **AI Architecture Study**    | AI Software Architecture 학습 기록 | UML · System Design         |
+| **Algorithm**                | C++ 알고리즘 문제 풀이                 | C++                         |
+| **AI Model Lab**             | AI/VLM 모델 실험 기록                | Python · GPU                |
+
+---
+
+<div align="center">
+
+### 🚀 AI Model → Backend → Architecture → Service
+
+**Growing toward an AI Solution Architect**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
 </div>
