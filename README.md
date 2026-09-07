@@ -86,9 +86,9 @@ AI 기능을 단순히 사용하는 것을 넘어
 
 ## 🏆 Awards & Activities
 
-* **ABC Camp AI Service Project** — AI 기반 서비스 개발
+* **2026 ABC Camp INCLUSIVE AI Service Project**  [🔗](https://www.christiandaily.co.kr/news/163278) — AI 기반 서비스 개발
 * **Digital Competition** — NVIDIA A100 GPU 기반 AI Model Experiment
-* **Inclusive AI Ideathon** — Korea × Japan AI Service Ideation
+* **Inclusive AI Ideathon** — [🔗](https://www.kyosu.net/news/articleView.html?idxno=209710)- Korea × Japan AI Service Ideation 
 
 <!-- 실제 수상 내역이 있다면 아래처럼 변경 -->
 
@@ -106,7 +106,6 @@ AI 기능을 단순히 사용하는 것을 넘어
 * Information Processing Engineer — Preparing
 * SQLD — Preparing
 
-> 취득 전 자격증을 README에 넣기 싫다면 이 섹션은 삭제하는 것을 추천합니다.
 
 ---
 
@@ -207,7 +206,7 @@ AI Service
 
 <!-- HANDLE을 본인 백준 ID로 변경 -->
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=HANDLE"/>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kd2713st"/>
 
 </div>
 
