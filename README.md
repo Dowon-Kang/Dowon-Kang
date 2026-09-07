@@ -42,7 +42,7 @@ AI 기능을 단순히 사용하는 것을 넘어
 
 ## 🚀 Projects & Experience
 
-### AI Communication Service — ABC Camp
+### AI Context Bridge — ABC Camp
 
 **Backend Developer**
 
