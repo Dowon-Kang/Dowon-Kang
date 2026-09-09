@@ -35,12 +35,12 @@ AI 모델을 단순히 사용하는 데 그치지 않고,
 
 | Project | Description | Role & Contribution | Tech | Status |
 | --- | --- | --- | --- | :---: |
-| **Context Bridge AI Service** | 문맥 정보를 활용하는 AI 커뮤니케이션 서비스 | REST API 개발<br>Supabase 인증·DB 연동<br>Gemini API 연동<br>모델 응답 평가 및 성능 개선 | `React` `TypeScript` `Node.js` `Express` `Supabase` `Gemini API` | 완료 |
-| **ABC25 IoT Central Server** | oneM2M 기반 IoT 디바이스 데이터 수집·연동 시스템 | Mobius 중앙서버 구축<br>IoT 데이터 저장 구조 구성<br>서버와 디바이스 간 데이터 연동 | `oneM2M` `Mobius` `IoT` `REST API` | 완료 |
-| **Koetodoke — Inclusive AI Ideathon** 🇰🇷 × 🇯🇵 | 독거 고령자의 장보기를 지원하는 AI 서비스 | 사용자 문제 정의<br>음성 주문 UX 기획<br>OCR·이미지 인식 기능 설계<br>한·일 팀 협업 및 발표 | `Inclusive AI` `OCR` `VLM` `Service Design` | 기획 완료 |
-| **Vibration Control Mobile App** | 사용자 데이터에 따라 진동 강도를 계산하고 장치로 전달하는 모바일 앱 | 사용자 데이터·외부 API 연동<br>진동 강도 계산 및 전송 구조 설계<br>모바일 UI/UX 구현 | `Flutter` `REST API` `Hardware Integration` | 진행 중 |
-| **EEG-based AI Research** | BrainAccess EEG를 활용한 뇌파 측정 및 AI 분석 연구 | EEG 측정 환경 구축<br>실험 주제·프로토콜 설계<br>신호 전처리 및 데이터 분석 준비 | `EEG` `BrainAccess` `Python` `Signal Processing` | 진행 중 |
-| **AI Model Experiment & Evaluation** | 교내 NVIDIA A100 GPU 서버에서 AI 모델을 실행하고 성능을 평가한 실험 | Linux·Remote SSH 환경 구성<br>AI 모델 실행·테스트<br>모델 결과 및 성능 평가 | `Python` `Linux` `NVIDIA A100` `SSH` | 수행 |
+| **Context Bridge AI Service** | 문맥 정보를 활용하는 AI 커뮤니케이션 서비스 | REST API 개발<br>Supabase 인증·DB 연동<br>Gemini API 연동<br>모델 응답 평가 및 성능 개선 | React TypeScript Node.js Express Supabase Gemini API | 완료 |
+| **ABC25 IoT Central Server** | oneM2M 기반 IoT 디바이스 데이터 수집·연동 시스템 | Mobius 중앙서버 구축<br>IoT 데이터 저장 구조 구성<br>서버와 디바이스 간 데이터 연동 | oneM2M Mobius IoT REST API | 완료 |
+| **Koetodoke — Inclusive AI Ideathon** 🇰🇷 × 🇯🇵 | 독거 고령자의 장보기를 지원하는 AI 서비스 | 사용자 문제 정의<br>음성 주문 UX 기획<br>OCR·이미지 인식 기능 설계<br>한·일 팀 협업 및 발표 | Inclusive AI OCR VLM Service Design | 기획 완료 |
+| **Vibration Control Mobile App** | 사용자 데이터에 따라 진동 강도를 계산하고 장치로 전달하는 모바일 앱 | 사용자 데이터·외부 API 연동<br>진동 강도 계산 및 전송 구조 설계<br>모바일 UI/UX 구현 | Flutter REST API Hardware Integration | 진행 중 |
+| **EEG-based AI Research** | BrainAccess EEG를 활용한 뇌파 측정 및 AI 분석 연구 | EEG 측정 환경 구축<br>실험 주제·프로토콜 설계<br>신호 전처리 및 데이터 분석 준비 | EEG BrainAccess Python Signal Processing | 진행 중 |
+| **AI Model Experiment & Evaluation** | 교내 NVIDIA A100 GPU 서버에서 AI 모델을 실행하고 성능을 평가한 실험 | Linux·Remote SSH 환경 구성<br>AI 모델 실행·테스트<br>모델 결과 및 성능 평가 | Python Linux NVIDIA A100 SSH | 수행 |
 
 > 프로젝트별 소스 코드와 상세 문서는 공개 가능한 범위에서 순차적으로 정리하고 있습니다.
 
@@ -121,10 +121,10 @@ AI 모델을 단순히 사용하는 데 그치지 않고,
 
 | Area | Topics |
 | --- | --- |
-| **AI Architecture** | `VLM` `AI Agent` `Model Evaluation` `RAG` |
-| **Software Architecture** | `UML` `System Design` `Design Patterns` `API Design` |
-| **Cloud / DevOps** | `AWS` `Docker` `CI/CD` `Monitoring` |
-| **Signal & Research** | `EEG` `Signal Processing` `Experimental Design` |
+| **AI Architecture** | VLM AI Agent Model Evaluation RAG |
+| **Software Architecture** | UML System Design Design Patterns API Design |
+| **Cloud / DevOps** | AWS Docker CI/CD Monitoring |
+| **Signal & Research** | EEG Signal Processing Experimental Design |
 
 ---
 
@@ -170,7 +170,8 @@ AI 모델을 단순히 사용하는 데 그치지 않고,
 
 ## 🎯 Career Focus
 
-```text
+
+text
 AI Model / LLM / VLM
         ↓
 Inference / AI API
@@ -184,7 +185,7 @@ Cloud Infrastructure
 Monitoring & Scalability
         ↓
 AI Service
-```
+
 
 <div align="center">
 
@@ -192,4 +193,25 @@ AI Service
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=110&section=footer"/>
 
-</div>
+</div> 
+ readme이런식 대화 흐름트오 다시 리팩토링 해줄수있니https://chatgpt.com/share/6aa16353-1858-83e8-af0c-f8b1d51db376
+
+전체 리팩터링했습니다: 
+README.md
+
+핵심 변경점은 다음과 같습니다.
+
+정체성을 Signals · AI Systems · Service Architecture로 구체화
+실제 사용 기술과 학습 중인 기술 분리
+프로젝트를 담당 역할–검증–배운 점 중심으로 재구성
+Context Bridge의 평가 지표 추가
+모바일에서 불편한 대형 프로젝트 표 제거
+반복되던 진로 설명과 불안정한 GitHub Stats 제거
+아직 시작 단계인 EEG 연구는 과장 없이 표현
+두 기사 모두 확인하여 개인 성과 증빙이 아닌 행사 관련 기사로 정확히 표시: ABC 해커톤, 한일 브릿지 아이디어톤
+이메일과 포트폴리오 주소는 실제 주소를 넣기 전까지 표시되지 않도록 주석 처리
+
+공유 링크는 시스템상 직접 열리지 않았지만, 이전 대화에서 확인된 “AI 모델 자체보다 요구사항·평가·API·배포·모니터링까지 연결하는 사람”이라는 방향을 복원해 반영했습니다.
+
+README.md
+문서
