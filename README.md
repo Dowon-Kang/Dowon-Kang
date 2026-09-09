@@ -27,8 +27,6 @@
 안녕하세요.  
 **AI 시스템을 직접 구현하며 Architecture까지 확장하고 있는 강도원**입니다.
 
-AI 모델이나 API를 단순히 사용하는 것보다,
-
 **데이터가 어떻게 입력되고 → 모델이 어떻게 처리하며 →  
 Backend와 Database를 거쳐 → 실제 서비스로 전달되는지**
 
@@ -40,36 +38,6 @@ Backend와 Database를 거쳐 → 실제 서비스로 전달되는지**
 
 장기적으로는  
 **AI 모델과 서비스 인프라를 함께 이해하는 AI Solution Architect**를 목표로 하고 있습니다.
-
-### Focus
-
-- **Signal & Multimodal AI**
-  - EEG
-  - Image
-  - Audio
-  - Sensor Data
-  - Signal Processing
-
-- **AI Engineering**
-  - AI Model / API Integration
-  - Model Evaluation
-  - AI Service Performance Improvement
-
-- **Backend Engineering**
-  - REST API
-  - Authentication
-  - Database
-  - Service Logic
-
-- **System Architecture**
-  - AI ↔ Backend ↔ Database ↔ Cloud
-  - API Design
-  - System Design
-
-- **Leadership & Collaboration**
-  - Project Leadership
-  - Study Management
-  - Python Mentoring
 
 ---
 
