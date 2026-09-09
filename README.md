@@ -64,13 +64,6 @@ Backend와 Database를 거쳐 → 실제 서비스로 전달되는지**
 - 모델 결과 분석 및 응답 성능 평가
 - AI 모델 성능 개선 과정 경험
 
-### EEG Research Environment
-
-- BrainAccess EEG 기반 측정 환경 구축
-- EEG 실험 주제 및 프로토콜 설계
-- 신호 전처리 및 분석 Workflow 학습
-- EEG 데이터를 활용한 AI 분석 가능성 탐색
-
 ---
 
 ## 🏗️ Engineering Interests
