@@ -1,155 +1,273 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=220&section=header&text=Dowon%20Kang&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" alt="Dowon Kang header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=220&section=header&text=Dowon%20Kang%20🚀&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"/>
 
-### Signals · AI Systems · Service Architecture
+### Real-world Signal → AI → Backend → Cloud → Service
 
-영상·음성·EEG와 같은 **신호 데이터**를 이해하고,  
-AI 기능을 **백엔드와 클라우드 서비스**로 연결하는 과정을 공부하고 있습니다.
+영상·음성·EEG·센서와 같은 Real-world Data를  
+**AI와 Backend를 거쳐 실제 서비스로 연결하는 개발자 강도원**입니다.
 
-`AI/Signal` → `Inference & Evaluation` → `Backend/API` → `Cloud` → `Service`
+`Signal & Multimodal AI` · `AI Engineering` · `Backend` · `System Architecture`
 
-<!-- 실제 주소를 입력한 뒤 아래 주석을 해제하세요.
 <p>
-  <a href="YOUR_NOTION_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="YOUR_NOTION_URL">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
 </p>
--->
 
 </div>
 
-## About Me
+---
 
-안녕하세요. **AI Solution Architect**를 목표로 성장하고 있는 강도원입니다.
+## 👨‍💻 About Me
 
-AI 모델을 호출하는 것에서 끝내지 않고, 사용자의 문제를 정의한 뒤 모델 평가, API, 데이터베이스, 배포와 운영까지 하나의 시스템으로 설계하는 데 관심이 있습니다. 현재는 백엔드 개발과 AI 기능 연동 경험을 기반으로 소프트웨어 아키텍처와 신호 처리 역량을 넓혀 가고 있습니다.
+안녕하세요.  
+**AI 시스템을 직접 구현하며 Architecture까지 확장하고 있는 강도원**입니다.
 
-- AI 기능을 REST API·인증·데이터베이스와 연결한 서비스 개발
-- 정량 평가를 통한 모델 응답 품질 분석 및 개선
-- IoT 중앙 서버와 모바일–하드웨어 연동 구조 설계
-- 팀·스터디 운영과 Python 멘토링
+AI 모델이나 API를 단순히 사용하는 것보다,
 
-## Selected Projects
+**데이터가 어떻게 입력되고 → 모델이 어떻게 처리하며 →  
+Backend와 Database를 거쳐 → 실제 서비스로 전달되는지**
 
-### Context Bridge — AI Communication Service
+전체 흐름을 이해하고 설계하는 데 관심이 있습니다.
 
-문맥 정보를 활용해 대화를 돕는 AI 커뮤니케이션 서비스입니다.
+현재는 Backend와 AI Integration 경험을 기반으로  
+**영상·음성·EEG·센서와 같은 Signal / Multimodal Data를 다루는 AI 시스템**까지  
+기술 영역을 확장하고 있습니다.
 
-- **담당:** Node.js·Express 기반 REST API, Supabase Auth·PostgreSQL 연동, Gemini API 통합
-- **검증:** held-out 40문항·340쌍 기준 Precision 88.7%, Recall 79.2%, F1 83.7%
-- **배운 점:** 모델 출력 품질은 프롬프트뿐 아니라 데이터 구조, 평가 기준, 예외 처리까지 함께 설계해야 한다는 점
-- **Tech:** `React` `TypeScript` `Node.js` `Express` `Supabase` `PostgreSQL` `Gemini API`
+장기적으로는  
+**AI 모델과 서비스 인프라를 함께 이해하는 AI Solution Architect**를 목표로 하고 있습니다.
 
-### ABC25 — oneM2M IoT Central Server
+### Focus
 
-Mobius를 활용해 IoT 디바이스의 인식 데이터를 수집·저장하는 중앙 서버 구조를 구현했습니다.
+- **Signal & Multimodal AI**
+  - EEG
+  - Image
+  - Audio
+  - Sensor Data
+  - Signal Processing
 
-- **담당:** Mobius 서버 구축, `FacialEmo AE` 구성, emotion·object 컨테이너 설계, REST 기반 데이터 연동
-- **배운 점:** 디바이스–서버 간 데이터 모델과 인터페이스 계약이 전체 연동의 기준이 된다는 점
-- **Tech:** `oneM2M` `Mobius` `REST API` `IoT`
+- **AI Engineering**
+  - AI Model / API Integration
+  - Model Evaluation
+  - AI Service Performance Improvement
 
-### Koetodoke — Korea–Japan Inclusive AI Ideathon
+- **Backend Engineering**
+  - REST API
+  - Authentication
+  - Database
+  - Service Logic
 
-독거 고령자의 장보기 어려움을 해결하기 위해 음성·이미지·문자 신호를 하나의 사용자 흐름으로 연결한 서비스입니다.
+- **System Architecture**
+  - AI ↔ Backend ↔ Database ↔ Cloud
+  - API Design
+  - System Design
 
-- **담당:** 문제 정의, 음성 주문 UX, OCR·이미지 인식 기능, 재주문 및 가족 공동 케어 흐름 설계
-- **협업:** 한국·일본 학생 간 서비스 기획 및 발표
-- **Tech:** `Inclusive AI` `Voice UI` `OCR` `VLM` `Service Design`
-- **Related:** [2026 Korea–Japan Bridge Ideathon](https://www.kyosu.net/news/articleView.html?idxno=209710)
+- **Leadership & Collaboration**
+  - Project Leadership
+  - Study Management
+  - Python Mentoring
 
-### Vibration Control Mobile App `In Progress`
+---
 
-사용자 데이터와 외부 API를 바탕으로 진동 강도를 계산하고 하드웨어 장치에 전달하는 Flutter 앱을 개발하고 있습니다.
+## 🚀 Featured Projects
 
-- **담당:** 모바일 UI/UX, 외부 API 연동, 계산 로직과 장치 전송 인터페이스 설계
-- **현재 과제:** 센서·장치 API 연동, 불안정한 네트워크 처리, 계산 근거 검증
-- **Tech:** `Flutter` `Dart` `REST API` `Hardware Integration`
+| Project | Problem | Contribution | Tech | Status |
+| --- | --- | --- | --- | :---: |
+| **Context Bridge — Context-aware AI Service** | 사용자의 문맥을 반영해 더 적절한 AI 응답을 제공하는 서비스 | REST API 개발<br>Supabase Auth·DB 연동<br>Gemini API 연동<br>모델 응답 평가 및 성능 개선 | `Node.js` `Express` `TypeScript` `Supabase` `Gemini API` | Completed |
+| **EEG Signal Analysis Research** | EEG 신호에서 의미 있는 패턴을 분석하고 AI 적용 가능성을 탐색 | BrainAccess 측정 환경 구축<br>실험 주제 및 프로토콜 설계<br>신호 전처리·분석 환경 구성 | `Python` `EEG` `BrainAccess` `Signal Processing` | In Progress |
+| **Adaptive Vibration Control System** | 사용자 데이터에 따라 진동 강도를 계산하고 장치에 전달 | 외부 API 연동<br>진동 강도 계산 로직 설계<br>모바일 → Hardware 전송 구조 설계<br>Flutter UI 구현 | `Flutter` `REST API` `Hardware Integration` | In Progress |
+| **oneM2M IoT Central Server** | IoT 디바이스 데이터를 중앙 서버에서 수집·관리 | Mobius 중앙서버 구축<br>데이터 Container 설계<br>Device ↔ Server 데이터 연동 | `oneM2M` `Mobius` `IoT` `REST API` | Completed |
+| **Koetodoke — Inclusive AI Ideathon 🇰🇷 × 🇯🇵** | 독거 고령자의 장보기 불편을 AI 서비스로 개선 | 사용자 문제 정의<br>음성 주문 UX 설계<br>OCR·이미지 인식 기능 기획<br>한·일 팀 협업 및 발표 | `Inclusive AI` `OCR` `VLM` `Service Design` | Planned |
 
-### EEG-based AI Research `In Progress`
+> 프로젝트별 소스 코드와 상세 문서는 공개 가능한 범위에서 순차적으로 정리하고 있습니다.
 
-BrainAccess 4채널 EEG를 활용한 측정·분석 환경을 준비하고 있습니다.
+---
 
-- **현재 작업:** 실험 질문과 프로토콜 설계, 측정 환경 구성, 전처리·분석 파이프라인 학습
-- **관심:** 시간에 따라 변화하는 생체 신호에서 의미 있는 패턴을 추정하고 서비스 문제와 연결하는 방법
-- **Tech:** `Python` `EEG` `Signal Processing` `Experimental Design`
+## 🔬 Research & Engineering Experience
 
-### AI Model Experiment & Evaluation
+### NVIDIA A100 AI Model Evaluation
 
-교내 NVIDIA A100 GPU 서버에서 Linux·Remote SSH 환경을 구성하고 AI 모델을 실행·평가했습니다.
+- 교내 NVIDIA A100 GPU 서버 기반 AI 모델 실행 및 테스트
+- Linux / Remote SSH 환경에서 모델 실험 수행
+- 모델 결과 분석 및 응답 성능 평가
+- AI 모델 성능 개선 과정 경험
 
-- **담당:** 실행 환경 구성, 모델 테스트, 결과 비교 및 성능 분석
-- **Tech:** `Python` `Linux` `NVIDIA A100` `Remote SSH`
+### EEG Research Environment
 
-## Experience at a Glance
+- BrainAccess EEG 기반 측정 환경 구축
+- EEG 실험 주제 및 프로토콜 설계
+- 신호 전처리 및 분석 Workflow 학습
+- EEG 데이터를 활용한 AI 분석 가능성 탐색
 
-| Area | Experience |
+---
+
+## 🏗️ Engineering Interests
+
+<pre>
+Real-world Data
+Image · Audio · EEG · Sensor
+             ↓
+      Signal Processing
+             ↓
+        AI / ML Model
+             ↓
+     Inference Pipeline
+             ↓
+        Backend API
+             ↓
+        Database
+             ↓
+      Cloud / Infra
+             ↓
+       Monitoring
+             ↓
+         AI Service
+</pre>
+
+제가 관심 있는 것은 특정 모델 하나가 아니라,
+
+**데이터가 실제 AI 서비스가 되기까지의 전체 시스템 구조**입니다.
+
+---
+
+## 💫 Tech Stack
+
+### Core
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### AI / Data
+
+<p>
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Model_Evaluation-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Signal_Processing-0F766E?style=for-the-badge"/>
+</p>
+
+### Languages / Mobile
+
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
+
+### Development Environment
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+| Area | Topics |
 | --- | --- |
-| **AI integration** | Gemini API 연동, 모델 응답 평가, OCR·VLM 기능 설계 |
-| **Backend & data** | REST API, Node.js·Express, Supabase Auth, PostgreSQL |
-| **Systems** | oneM2M·Mobius 중앙 서버, 모바일–하드웨어 연동 구조 |
-| **Research** | EEG 실험 설계 및 신호 처리 학습, A100 모델 실험 |
-| **Collaboration** | 랩·스터디 운영, Python 멘토링, 한·일 팀 프로젝트 |
+| **Signal & Multimodal AI** | `EEG` `Computer Vision` `Audio` `Signal Processing` |
+| **AI Engineering** | `VLM` `RAG` `AI Agent` `Model Evaluation` |
+| **AI System Architecture** | `System Design` `API Design` `UML` `Design Patterns` |
+| **Cloud / MLOps** | `AWS` `Docker` `CI/CD` `Monitoring` |
 
-## Tech
+---
 
-### Used in Projects
+## 🎓 Education
 
-`Python` `TypeScript` `JavaScript` `Node.js` `Express` `React`  
-`Supabase` `PostgreSQL` `Flutter` `Dart` `Git` `GitHub` `Linux`  
-`REST API` `Gemini API` `oneM2M` `Mobius`
+| Institution | Major | Status |
+| --- | --- | --- |
+| **한신대학교** | AISW학부 | 재학 중 |
 
-### Fundamentals
+---
 
-`C` `C++` `Java` `Data Structures` `Algorithms` `Object-Oriented Programming`
+## 🧑‍💻 Leadership & Community
 
-### Currently Learning
-
-| Focus | Topics |
-| --- | --- |
-| **AI systems** | `VLM` `RAG` `AI Agent` `Model Evaluation` |
-| **Software architecture** | `Requirements` `UML` `System Design` `Design Patterns` `API Design` |
-| **Cloud & operations** | `AWS` `Docker` `CI/CD` `Monitoring` |
-| **Signals & research** | `EEG` `Signal Processing` `Experimental Design` |
-
-## Leadership & Community
-
-| Organization | Role | What I Do |
+| Organization | Role | Activity |
 | --- | --- | --- |
 | **AISC Lab** | Lab Leader | 랩 운영 및 프로젝트·스터디 활동 지원 |
 | **AISC Programming Study** | Study Leader | C 프로그래밍 스터디 운영 |
 | **AISC Mentoring** | Mentor | Python 학습 멘토링 |
-| **C++ Algorithm Study** | Member | 알고리즘과 문제 해결 학습 |
+| **C++ Algorithm Study** | Member | 알고리즘 및 문제 해결 학습 |
 
-## Education & Activities
+---
 
-- **Hanshin University** — AISW, Undergraduate
-- **2026 ABC Camp / ABC DO Hackathon** — AI service development · [Event article](https://www.christiandaily.co.kr/news/163278)
-- **2026 Korea–Japan Bridge Ideathon** — Inclusive AI service planning · [Event article](https://www.kyosu.net/news/articleView.html?idxno=209710)
-- **Digital Competition** — AI model experiment and evaluation on NVIDIA A100
+## 🏆 Activities
 
-## Problem-Solving Practice
+| Activity | Description | Link |
+| --- | --- | :---: |
+| **2026 ABC Camp AI Service Project** | AI 기반 서비스 개발 및 모델 응답 평가 | [Article](https://www.christiandaily.co.kr/news/163278) |
+| **Inclusive AI Ideathon** | 한국·일본 학생 협업 AI 서비스 기획 | [Article](https://www.kyosu.net/news/articleView.html?idxno=209710) |
+| **Digital Competition** | NVIDIA A100 GPU 기반 AI 모델 실행 및 평가 | — |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kd2713st" alt="Solved.ac profile for kd2713st" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Dowon-Kang&show_icons=true&hide_border=true&theme=github_dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Dowon-Kang&show_icons=true&hide_border=true&theme=default"/>
+  <img height="165" alt="Dowon Kang GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dowon-Kang&show_icons=true&hide_border=true"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dowon-Kang&layout=compact&hide_border=true&theme=github_dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dowon-Kang&layout=compact&hide_border=true&theme=default"/>
+  <img height="165" alt="Dowon Kang Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dowon-Kang&layout=compact&hide_border=true"/>
+</picture>
 
 </div>
 
-## Next Step
+---
 
-현재의 목표는 특정 직함을 먼저 내세우는 것이 아니라, 아래 질문에 답할 수 있는 프로젝트를 쌓는 것입니다.
-
-> 어떤 문제를 해결하는가?  
-> 모델의 결과가 실제로 유효한가?  
-> 컴포넌트는 어떤 계약으로 연결되는가?  
-> 서비스는 어떻게 배포·관찰·개선되는가?
-
-요구사항, 아키텍처, AI 평가, 보안, 배포와 모니터링을 함께 다루며 **AI를 실제 환경에서 안정적으로 사용할 수 있는 시스템**을 설계하는 사람으로 성장하고 있습니다.
+## 🧩 Algorithm
 
 <div align="center">
 
-<sub>From signals to reliable AI services.</sub>
+<img alt="Solved.ac Profile" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kd2713st"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=110&section=footer" alt="Footer" />
+</div>
+
+---
+
+## 🎯 Career Direction
+
+<pre>
+Signal / Multimodal AI
+          ↓
+     AI Engineering
+          ↓
+ Backend Engineering
+          ↓
+  System Architecture
+          ↓
+AI Solution Architect
+</pre>
+
+<div align="center">
+
+### From Signal AI Engineering to AI Solution Architecture
+
+Real-world data를 이해하고,  
+이를 실제 AI 시스템과 서비스로 연결하는 개발자를 목표로 합니다.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=110&section=footer"/>
 
 </div>
