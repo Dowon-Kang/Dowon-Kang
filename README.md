@@ -89,10 +89,6 @@ Image · Audio · EEG · Sensor
          AI Service
 </pre>
 
-제가 관심 있는 것은 특정 모델 하나가 아니라,
-
-**데이터가 실제 AI 서비스가 되기까지의 전체 시스템 구조**입니다.
-
 ---
 
 ## 💫 Tech Stack
@@ -105,15 +101,11 @@ Image · Audio · EEG · Sensor
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ### AI / Data
 
 <p>
-  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Model_Evaluation-111827?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Signal_Processing-0F766E?style=for-the-badge"/>
 </p>
 
@@ -124,7 +116,6 @@ Image · Audio · EEG · Sensor
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
 ### Development Environment
