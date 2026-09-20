@@ -41,33 +41,6 @@ Backend와 Database를 거쳐 → 실제 서비스로 전달되는지**
 
 ---
 
----
-
-## 🏗️ Engineering Interests
-
-<pre>
-Real-world Data
-Image · Audio · EEG · Sensor
-             ↓
-      Signal Processing
-             ↓
-        AI / ML Model
-             ↓
-     Inference Pipeline
-             ↓
-        Backend API
-             ↓
-        Database
-             ↓
-      Cloud / Infra
-             ↓
-       Monitoring
-             ↓
-         AI Service
-</pre>
-
----
-
 ## 💫 Tech Stack
 
 ### Core
