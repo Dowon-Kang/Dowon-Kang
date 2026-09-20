@@ -41,29 +41,6 @@ Backend와 Database를 거쳐 → 실제 서비스로 전달되는지**
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Problem | Contribution | Tech | Status |
-| --- | --- | --- | --- | :---: |
-| **Context Bridge — Context-aware AI Service** | 사용자의 문맥을 반영해 더 적절한 AI 응답을 제공하는 서비스 | REST API 개발<br>Supabase Auth·DB 연동<br>Gemini API 연동<br>모델 응답 평가 및 성능 개선 | `Node.js` `Express` `TypeScript` `Supabase` `Gemini API` | Completed |
-| **EEG Signal Analysis Research** | EEG 신호에서 의미 있는 패턴을 분석하고 AI 적용 가능성을 탐색 | BrainAccess 측정 환경 구축<br>실험 주제 및 프로토콜 설계<br>신호 전처리·분석 환경 구성 | `Python` `EEG` `BrainAccess` `Signal Processing` | In Progress |
-| **Adaptive Vibration Control System** | 사용자 데이터에 따라 진동 강도를 계산하고 장치에 전달 | 외부 API 연동<br>진동 강도 계산 로직 설계<br>모바일 → Hardware 전송 구조 설계<br>Flutter UI 구현 | `Flutter` `REST API` `Hardware Integration` | In Progress |
-| **oneM2M IoT Central Server** | IoT 디바이스 데이터를 중앙 서버에서 수집·관리 | Mobius 중앙서버 구축<br>데이터 Container 설계<br>Device ↔ Server 데이터 연동 | `oneM2M` `Mobius` `IoT` `REST API` | Completed |
-| **Koetodoke — Inclusive AI Ideathon 🇰🇷 × 🇯🇵** | 독거 고령자의 장보기 불편을 AI 서비스로 개선 | 사용자 문제 정의<br>음성 주문 UX 설계<br>OCR·이미지 인식 기능 기획<br>한·일 팀 협업 및 발표 | `Inclusive AI` `OCR` `VLM` `Service Design` | Planned |
-
-> 프로젝트별 소스 코드와 상세 문서는 공개 가능한 범위에서 순차적으로 정리하고 있습니다.
-
----
-
-## 🔬 Research & Engineering Experience
-
-### NVIDIA A100 AI Model Evaluation
-
-- 교내 NVIDIA A100 GPU 서버 기반 AI 모델 실행 및 테스트
-- Linux / Remote SSH 환경에서 모델 실험 수행
-- 모델 결과 분석 및 응답 성능 평가
-- AI 모델 성능 개선 과정 경험
-
 ---
 
 ## 🏗️ Engineering Interests
