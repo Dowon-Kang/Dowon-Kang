@@ -2,13 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=220&section=header&text=Dowon%20Kang%20🚀&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"/>
 
-### Real-world Signal → AI → Backend → Cloud → Service
-
-영상·음성·EEG·센서와 같은 Real-world Data를  
-**AI와 Backend를 거쳐 실제 서비스로 연결하는 개발자 강도원**입니다.
-
-`Signal & Multimodal AI` · `AI Engineering` · `Backend` · `System Architecture`
-
 <p>
   <a href="YOUR_NOTION_URL">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/>
@@ -103,8 +96,6 @@ Backend와 Database를 거쳐 → 실제 서비스로 전달되는지**
 | Organization | Role | Activity |
 | --- | --- | --- |
 | **AISC Lab** | Lab Leader | 랩 운영 및 프로젝트·스터디 활동 지원 |
-| **AISC Programming Study** | Study Leader | C 프로그래밍 스터디 운영 |
-| **AISC Mentoring** | Mentor | Python 학습 멘토링 |
 | **C++ Algorithm Study** | Member | 알고리즘 및 문제 해결 학습 |
 
 ---
@@ -115,7 +106,7 @@ Backend와 Database를 거쳐 → 실제 서비스로 전달되는지**
 | --- | --- | :---: |
 | **2026 ABC Camp AI Service Project** | AI 기반 서비스 개발 및 모델 응답 평가 | [Article](https://www.christiandaily.co.kr/news/163278) |
 | **Inclusive AI Ideathon** | 한국·일본 학생 협업 AI 서비스 기획 | [Article](https://www.kyosu.net/news/articleView.html?idxno=209710) |
-| **Digital Competition** | NVIDIA A100 GPU 기반 AI 모델 실행 및 평가 | — |
+| **Digital Competition** | AI 모델 실행 및 평가 | — |
 
 ---
 
@@ -144,32 +135,5 @@ Backend와 Database를 거쳐 → 실제 서비스로 전달되는지**
 <div align="center">
 
 <img alt="Solved.ac Profile" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kd2713st"/>
-
-</div>
-
----
-
-## 🎯 Career Direction
-
-<pre>
-Signal / Multimodal AI
-          ↓
-     AI Engineering
-          ↓
- Backend Engineering
-          ↓
-  System Architecture
-          ↓
-AI Solution Architect
-</pre>
-
-<div align="center">
-
-### From Signal AI Engineering to AI Solution Architecture
-
-Real-world data를 이해하고,  
-이를 실제 AI 시스템과 서비스로 연결하는 개발자를 목표로 합니다.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=110&section=footer"/>
 
 </div>
