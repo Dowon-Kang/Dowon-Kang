@@ -6,7 +6,7 @@
   <a href="YOUR_NOTION_URL">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:kd1412@hs.ac.kr">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
