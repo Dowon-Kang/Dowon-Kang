@@ -1,18 +1,3 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=220&section=header&text=Dowon%20Kang%20🚀&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"/>
-
-<p>
-  <a href="YOUR_NOTION_URL">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/>
-  </a>
-  <a href="mailto:kd1412@hs.ac.kr">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-</div>
-
 ---
 
 ## 👨‍💻 About Me
