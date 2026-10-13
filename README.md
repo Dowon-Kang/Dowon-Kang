@@ -112,7 +112,15 @@ Backend와 Database를 거쳐 → 실제 서비스로 전달되는지**
 </picture>
 
 </div>
+## 🌱 3D Contribution Graph
 
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-green.svg"
+     alt="3D Contribution Graph"
+     width="100%"/>
+
+</div>
 ---
 
 ## 🧩 Algorithm
